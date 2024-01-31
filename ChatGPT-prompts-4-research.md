@@ -42,4 +42,4 @@ ChatGPT is a great tool to guide your learning path, especially when you are exp
 - "Can you recommend any experts or thought leaders in [concept] to follow?"
 - "Are there any online courses or lectures that you would recommend for deepening my understanding of [concept]?"
 
-Back to Main Page >> [[Using ChatGPT with Obsidian to Jumpstart a New Learning Journey]]
+[Back to Main Page >>](https://github.com/joefjord/GitHub-Obsidian/blob/main/README.md)
