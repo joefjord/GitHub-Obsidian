@@ -13,7 +13,7 @@ We'll start by using [ChatGPT](https://chat.openai.com) to gain some basic knowl
 
 Next we'll use Obsidian to organize your thoughts and keep track of your research.
 
-1. To get started, let's visit ChatGPT and learn to ask it the right kinds of questions.  [Writing good ChatGPT prompts for learning a new topic.](https://github.com/joefjord/GitHub-Obsidian/blob/main/README.md)
+1. To get started, let's visit ChatGPT and learn to ask it the right kinds of questions.  [Writing good ChatGPT prompts for learning a new topic.](https://github.com/joefjord/GitHub-Obsidian/blob/main/ChatGPT-prompts-4-research.md)
 
 2. Next, we will switch over to Obsidian and learn the basics of how to use it to organize our research. Here are some resources to help you:
 
