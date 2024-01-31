@@ -9,13 +9,13 @@ It can be difficult to even know where to begin.
 
 This document will help you get started learning any new topic.
 
-We'll start by using ChatGPT to gain some basic knowledge, find other resources, and plan your learning journey.
+We'll start by using [ChatGPT](https://chat.openai.com) to gain some basic knowledge, find other resources, and plan your learning journey.
 
 Next we'll use Obsidian to organize your thoughts and keep track of your research.
 
-1. To get started, let's visit ChatGPT and learn to ask it the right kinds of questions. Writing good ChatGPT prompts for learning a new topic
+1. To get started, let's visit ChatGPT and learn to ask it the right kinds of questions.  [Writing good ChatGPT prompts for learning a new topic.](https://github.com/joefjord/GitHub-Obsidian/blob/main/README.md)
 
 2. Next, we will switch over to Obsidian and learn the basics of how to use it to organize our research. Here are some resources to help you:
 
-- [ ] Obsidian Help
-- [ ] Obsidian Cheat Sheet
+- [ ] [Obsidian Help](https://help.obsidian.md/Home)
+- [ ] [Obsidian Cheat Sheet](https://github.com/joefjord/GitHub-Obsidian/blob/main/Obsidian-cheat-sheet.md)
