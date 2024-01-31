@@ -182,3 +182,4 @@ Ctrl + Click (Cmd + Click on Mac) | Open Link in New Pane
 
 
 > You've reached the end now. Hope this helps! :)
+Back to Main Page >> [[(https://github.com/joefjord/GitHub-Obsidian/blob/main/README.md)]]
