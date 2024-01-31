@@ -1,0 +1,82 @@
+_**Detailed Cheat Sheet 🔥**_
+
+# Heading 1
+
+'''
+# Heading 1
+'''
+
+---
+
+## Heading 2
+
+'''
+## Heading 2
+'''
+
+---
+
+**Line Break**
+
+'''
+---
+'''
+
+---
+
+- Bullet Points
+
+`- Bullet`
+
+---
+
+- [x]  Checklist
+- [ ] Checklist
+
+`- [x] list`
+
+---
+
+**Bold**
+
+`**text**`
+
+---
+
+_Italic_
+
+`*text*`
+
+---
+
+_**Italic Bold**_
+
+`***text***`
+
+---
+
+**==Highlights==**
+
+`==this text is highlighted==`
+
+---
+
+**`Coding Blocks`**
+
+``By putting 3 (`) signs before and after the code.``
+
+---
+
+**[[Links]]**
+
+`[[link]](sources)`
+
+---
+
+> Quotes/ Blockquotes
+
+`> this is a quote.`
+
+___
+
+Back to Main Page >> [[Using ChatGPT with Obsidian to Jumpstart a New Learning Journey]]
