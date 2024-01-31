@@ -17,5 +17,5 @@ Next we'll use Obsidian to organize your thoughts and keep track of your researc
 
 2. Next, we will switch over to Obsidian and learn the basics of how to use it to organize our research. Here are some resources to help you:
 
-  [] Obsidian Help
-  [] Obsidian Cheat Sheet
+ - [] Obsidian Help
+ - [] Obsidian Cheat Sheet
